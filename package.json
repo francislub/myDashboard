@@ -1,0 +1,48 @@
+{
+  "name": "admin_dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "aws4": "^1.12.0",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.3",
+    "cloudinary": "^2.2.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "next": "^14.1.4",
+    "next-auth": "^5.0.0-beta.3",
+    "nodemailer": "^6.9.4",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "postcss": "^8.4.38",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.8.0",
+    "recharts": "^2.9.0",
+    "tailwindcss": "3.3.2",
+    "use-debounce": "^10.0.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.15",
+    "@types/react-dom": "^18.3.0",
+    "file-loader": "^6.2.0",
+    "typescript": "5.1.6"
+  }
+}
