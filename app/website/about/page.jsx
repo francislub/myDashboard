@@ -117,6 +117,7 @@ export default function HomePage() {
                         <h2 className="font-bold text-2xl text-[#1f8cad]">
                             Our Vision
                         </h2>
+                        
                         <p className="text-lg">
                             Skills-related education and self-sustained youths, families and communities in local, national and continental Africa.
                         </p>
