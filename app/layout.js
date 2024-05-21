@@ -1,8 +1,8 @@
 import './ui/globals.css';
 
 export const metadata = {
-    title: 'Admin Dashboard',
-    description: 'Developed by TroyMoses',
+    title: 'NALONGO LWOKYAZA FOUNDATION',
+    description: 'Developed by Francis and TroyMoses',
 }
 
 export default function RootLayout({ children }) {

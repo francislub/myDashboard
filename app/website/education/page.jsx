@@ -95,7 +95,7 @@ export default function HomePage() {
             </div>
             {/* Home section ends here */}
 
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer bg-gray-100" id="aboutSection">
                 <div className="container ">
                      <p  className="text-lg">Nalongo Lwokyaza Foundation serves one of the world's most vulnerable communities by providing education to those least likely to be educated: those who come from families that cannot afford.  A case story is from Mbirabira primary school.  We also link students to available scholarships. We raise awareness on alternative educational pathways.</p>
                     <br />

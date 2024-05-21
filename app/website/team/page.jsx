@@ -21,7 +21,7 @@ import bannerImage from '../../public/images/banner.jpg'
 export default function ProgramsPage() {
   
     return (
-        <div className="scroll-smooth text-gray-800">
+        <div className="scroll-smooth text-gray-800 bg-gray-100">
 
                 <header>
                     <div className="container">

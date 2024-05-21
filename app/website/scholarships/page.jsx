@@ -94,7 +94,7 @@ export default function HomePage() {
 
             </div>
             {/* Home section ends here */}
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer " id="aboutSection">
                 <div className="container mx-5">
 
                     <div className="space-y-20 md:flex flex flex-col md:flex-row">
@@ -103,7 +103,7 @@ export default function HomePage() {
                                 
                                 <div className="programDesc">
                                   <span className="text-xl text-[#1f8cad]">Scholarships</span>
-                                    <p className="text-lg">
+                                    <p className="text-lg ">
                                       Nalongo Lwokyaza Foundation offers financial scholarships or material support to students in Primary school, Secondary school or at the University. Financial support in form of school tuition fees, scholastic material, accommodation and mentorship from the Foundation or through the Foundation partnerships. Such educational measures enable students to realize their visions. 
                                     </p>
                                     <br />

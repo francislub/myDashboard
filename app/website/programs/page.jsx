@@ -95,7 +95,7 @@ export default function ProgramsPage() {
             </div>
             {/* Home section ends here */}
 
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer bg-gray-100" id="aboutSection">
                 <div className="container">
                     <h2 className="sectionTitle text-[#1f8cad]">
                         Our Programs

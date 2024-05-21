@@ -105,18 +105,14 @@ export default function HomePage() {
             </div>
             {/* Home section ends here */}
 
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer bg-gray-100" id="aboutSection">
                 <div className="container">
                     <h2 className="sectionTitle text-[#1f8cad]">
                         About Us
                     </h2>
-                    <p className="text-lg font-normal">
+                    <p className="text-lg font-normal text-gray-700">
                         Nalongo Lwokyaza Foundation is a family-based, non-profit organization established in 2020 in Jinja, Uganda, in memory of the late Nalongo Mukyala Lwokyaza, a wife, mother, educator, mentor - in order to keep her legacy.
-                    
-                        {/* <br /><br />
-                        Our team is fueled by a deep commitment to charity. We're a diverse group of patriots and volunteers who bring a wealth of experience and expertise to the table. Together, we work collaboratively to develop impactful programs that directly benefit native and foreign refugee children.
-                        <br /><br />
-                        Whether you're a passionate volunteer, a generous donor, or simply someone who believes in a better tomorrow, we welcome you to join our movement. Together, we can create a lasting positive impact on the lives of refugee children. */}
+                
                     </p>
                     <div className="text-center mt-8">
                         <button className="bg-[#1f8cad] hover:bg-[#197996] text-white px-3 py-2 rounded">

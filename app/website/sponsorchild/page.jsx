@@ -239,4 +239,5 @@ const HomePage = async ({ searchParams }) => {
         </div>
     )
 }
+
 export default HomePage;

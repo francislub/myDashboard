@@ -21,19 +21,20 @@ const ProductsPage = async ({ searchParams }) => {
       </div>
       <table className={styles.table}>
         <thead>
-          <tr>
-            <td>Name</td>
-            <td>StudentID</td>
-            <td>Gender</td>
-            <td>Age</td>
-            <td>Class</td>
-            <td>Nationality</td>
-            <td>Parent Status</td>
-            <td>Level Of Need</td>
-            <td>Years Left</td>
-            <td>Description</td>
-            <td>Date Added</td>
-          </tr>
+        <tr>
+            <td style="width: 100px; text-align: center;">Name</td>
+            <td style="width: 100px; text-align: center;">StudentID</td>
+            <td style="width: 100px; text-align: center;">Gender</td>
+            <td style="width: 100px; text-align: center;">Age</td>
+            <td style="width: 100px; text-align: center;">Class</td>
+            <td style="width: 100px; text-align: center;">Nationality</td>
+            <td style="width: 150px; text-align: center;">Parent Status</td>
+            <td style="width: 150px; text-align: center;">Level Of Need</td>
+            <td style="width: 100px; text-align: center;">Years Left</td>
+            <td style="width: 300px; text-align: center;">Description</td>
+            <td style="width: 150px; text-align: center;">Date Added</td>
+            <td style="width: 150px; text-align: center;">Action</td>
+        </tr>
         </thead>
         <tbody>
           {childs.map((child) => (

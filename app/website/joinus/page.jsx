@@ -98,7 +98,7 @@ export default function HomePage() {
             </div>
             {/* Home section ends here */}
 
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer bg-gray-100" id="aboutSection">
                 <div className="container" id="joinusSection">
                     <h2 className="sectionTitle text-[#1f8cad]">
                         JOIN OUR TEAM

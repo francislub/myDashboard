@@ -95,7 +95,7 @@ export default function HomePage() {
             </div>
             {/* Home section ends here */}
 
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer bg-gray-100" id="aboutSection">
                 <div className="container ">
                     
                     <div className="space-y-20">

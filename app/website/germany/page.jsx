@@ -106,7 +106,7 @@ export default function HomePage() {
             </div>
             {/* Home section ends here */}
             <section className="programs" id="programsSection">
-                <div className="container">
+                <div className="container text-gray-700">
                     <h1><span>CIYOTA's approach to strengthening community engagement goes beyond local communities. We have friends around the world, who care and love our work to transform communities in Africa. We welcome these people and extend the opportunity to build the community. </span></h1>
                     
                 </div>

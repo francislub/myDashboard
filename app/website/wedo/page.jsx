@@ -85,9 +85,8 @@ export default function HomePage() {
                 {/* Header ends here */}
 
                 <div className="container">
-                    <h1><span>WHAT WE DO</span></h1>
+                    <h1>WHAT WE DO</h1>
                     <p className="text-lg">
-                    
                     </p>
                     <button className="mb-5">
                         <Link href="#joinusSection">
@@ -98,7 +97,7 @@ export default function HomePage() {
             </div>
             {/* Home section ends here */}
 
-            <section className="fullContainer" id="aboutSection">
+            <section className="fullContainer bg-gray-100" id="aboutSection">
                 <div className="container" id="joinusSection">
                     <h2 className="sectionTitle text-[#1f8cad]">
                        WHAT WE DO

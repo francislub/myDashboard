@@ -87,7 +87,7 @@ export default function ProgramsPage() {
                 {/* Header ends here */}
 
                 <div className="container space-y-10">
-                    <h1><span>Our Impact</span></h1>
+                    <h1>Our Impact</h1>
                     <p className="text-lg">
                     </p>
                 </div>
@@ -106,7 +106,7 @@ export default function ProgramsPage() {
                 </div>
             </section> */}
 
-            <section className="fullContainer -mt-10" id="aboutSection">
+            <section className="fullContainer -mt-10 bg-gray-100" id="aboutSection">
                 <div className="container ">
                     <div className="space-y-20">
                         <div className="flex justify-between xl:flex-row flex-col  xl:space-x-1 space-y-1 xl:space-y-0">
