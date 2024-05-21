@@ -27,7 +27,7 @@ const login = async (credentials) => {
 };
 
 export const { signIn, signOut, auth } = NextAuth({
-  ...authConfig,
+  // ...authConfig,
   providers: [
     CredentialsProvider({
       async authorize(credentials) {
