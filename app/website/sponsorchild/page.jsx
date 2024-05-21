@@ -161,7 +161,7 @@ const HomePage = async ({ searchParams }) => {
                         </div>
                         <ul className="space-y-3">
                             <li>
-                                <Link href="/" className="link">
+                                <Link href="/website/home" className="link">
                                     Home
                                 </Link>
                             </li>
