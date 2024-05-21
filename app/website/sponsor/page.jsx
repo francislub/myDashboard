@@ -257,7 +257,7 @@ export default function ProgramsPage() {
                         </div>
                         <ul className="space-y-3">
                             <li>
-                                <Link href="/website/home" className="link">
+                                <Link href="/" className="link">
                                     Home
                                 </Link>
                             </li>

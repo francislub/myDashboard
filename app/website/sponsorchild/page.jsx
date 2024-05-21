@@ -166,27 +166,27 @@ const HomePage = async ({ searchParams }) => {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/about" className="link">
+                                <Link href="/website/about" className="link">
                                     About Us
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/programs" className="link">
+                                <Link href="/website/programs" className="link">
                                     Programs
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/education" className="link">
+                                <Link href="/website/education" className="link">
                                     Education
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/gallery" className="link">
+                                <Link href="/website/gallery" className="link">
                                     Gallery
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/joinus" className="link">
+                                <Link href="/website/joinus" className="link">
                                     Join Us
                                 </Link>
                             </li>

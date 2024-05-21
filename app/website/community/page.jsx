@@ -35,7 +35,7 @@ export default function HomePage() {
                         <nav className="pt-5">
                             <ul>
                                 <li class="dropdown">
-                                    <a href="/website/home" className="dropbtn link">ABOUT</a>
+                                    <a href="/" className="dropbtn link">ABOUT</a>
                                     <div class="dropdown-content">
                                         <Link href="/website/about" className="link">WHO WE ARE</Link>
                                         <Link href="/website/wedo" className="link">WHAT WE DO</Link>
@@ -219,7 +219,7 @@ export default function HomePage() {
                         </div>
                         <ul className="space-y-3">
                             <li>
-                                <Link href="/website/home" className="link">
+                                <Link href="/" className="link">
                                     Home
                                 </Link>
                             </li>
