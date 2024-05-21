@@ -19,7 +19,7 @@
     border-radius: 5px;
     cursor: pointer;
   }
-  .container {
+  .table {
     width: 100%;
     overflow-x: auto; /* Enables horizontal scrolling */
     margin: 20px 0;
@@ -38,7 +38,7 @@
   
   .table th, .table td {
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 2px solid #ddd;
   }
   
   
